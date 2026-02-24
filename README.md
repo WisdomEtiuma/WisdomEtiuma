@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @WisdomEtiuma
-- 👀 I’m interested in Frontend, Backend, UI/UX, and Graphic Design.
-- 🌱 I’m currently learning Backend Software Development
-- 💞️ I’m looking to collaborate on any web design or maintenance projects
-- 📫 How to reach me - Here's my email "wetiuma@gmail.com", my twitter "Sweezy_W", and my phone number "+2347044250278".
+- 👀 I’m interested in Frontend, Backend, UI/UX, Graphic Design, Data Analysis, and Data Mining.
+- 🌱 I’m currently learning Backend Software Development, and Data Analysis and Mining.
+- 💞️ I’m looking to collaborate on any web design or maintenance projects.
+- 📫 How to reach me - Here's my email "wetiuma@gmail.com", my twitter "Sweezy_W", and my phone number "+447350163769".
 
 <!---
 WisdomEtiuma/WisdomEtiuma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
